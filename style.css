@@ -490,7 +490,7 @@ h2 {
 .about-copy p {
   margin-bottom: 20px;
   color: var(--muted);
-  font-size: 13px;
+  font-size: 23px;
   line-height: 2;
 }
 
@@ -544,7 +544,7 @@ h2 {
   top: 24px;
   right: 24px;
   color: #b2a79a;
-  font-size: 9px;
+  font-size: 19px;
 }
 
 .principle-icon {
@@ -564,7 +564,7 @@ h2 {
 .principle-card p {
   max-width: 270px;
   color: var(--muted);
-  font-size: 11px;
+  font-size: 21px;
   line-height: 1.9;
 }
 
@@ -600,7 +600,7 @@ h2 {
   max-width: 350px;
   padding-bottom: 7px;
   color: #e2d4d2;
-  font-size: 12px;
+  font-size: 22px;
   line-height: 2;
 }
 
@@ -630,7 +630,7 @@ h2 {
 
 .skill-number {
   color: var(--champagne-light);
-  font-size: 8px;
+  font-size: 18px;
   letter-spacing: 1.2px;
 }
 
@@ -650,7 +650,7 @@ h2 {
 .skill-card p {
   min-height: 92px;
   color: #e2d4d2;
-  font-size: 10px;
+  font-size: 20px;
   line-height: 1.9;
 }
 
@@ -665,13 +665,13 @@ h2 {
   padding: 5px 8px;
   border: 1px solid #ffffff38;
   color: #f2e4d3;
-  font-size: 8px;
+  font-size: 18px;
 }
 
 .skills-note {
   margin-top: 30px;
   color: #d5c2bd;
-  font-size: 8px;
+  font-size: 18px;
   letter-spacing: 1.5px;
 }
 
@@ -694,7 +694,7 @@ h2 {
 .projects-intro > p {
   max-width: 350px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 22px;
   line-height: 2;
 }
 
@@ -734,7 +734,7 @@ h2 {
   top: 20px;
   left: 22px;
   color: #e8d4c0;
-  font-size: 8px;
+  font-size: 18px;
   letter-spacing: 1.5px;
 }
 
@@ -746,7 +746,7 @@ h2 {
   padding-top: 12px;
   border-top: 1px solid #ffffff38;
   color: #ead9c8;
-  font-size: 8px;
+  font-size: 18px;
   letter-spacing: 1.5px;
 }
 
@@ -838,7 +838,7 @@ h2 {
   justify-content: space-between;
   margin-bottom: 7px;
   color: var(--ink);
-  font-size: 8px;
+  font-size: 18px;
 }
 
 .system-row span:last-child {
@@ -871,7 +871,7 @@ h2 {
   justify-content: space-between;
   gap: 12px;
   color: var(--muted);
-  font-size: 8px;
+  font-size: 18px;
   letter-spacing: 1px;
 }
 
@@ -890,7 +890,7 @@ h2 {
 .project-info p {
   margin-top: 12px;
   color: var(--muted);
-  font-size: 11px;
+  font-size: 21px;
   line-height: 1.9;
 }
 
@@ -900,7 +900,7 @@ h2 {
   padding: 6px 9px;
   background: #efe5d8;
   color: var(--burgundy);
-  font-size: 8px;
+  font-size: 18px;
   letter-spacing: 1px;
 }
 
@@ -952,7 +952,7 @@ h2 {
 
 .timeline-label {
   color: var(--burgundy);
-  font-size: 8px;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing: 1.4px;
 }
@@ -967,7 +967,7 @@ h2 {
 
 .timeline-item p {
   color: var(--muted);
-  font-size: 11px;
+  font-size: 21px;
   line-height: 1.9;
 }
 
@@ -1008,18 +1008,18 @@ h2 {
 
 .language-item > span:first-child {
   color: var(--champagne);
-  font-size: 10px;
+  font-size: 20px;
 }
 
 .language-item strong {
   font-family: var(--serif);
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 500;
 }
 
 .language-level {
   color: var(--muted);
-  font-size: 8px;
+  font-size: 18px;
   letter-spacing: 1.2px;
 }
 
@@ -1080,7 +1080,7 @@ h2 {
   max-width: 470px;
   margin: 25px auto 30px;
   color: #e2d4d2;
-  font-size: 12px;
+  font-size: 22px;
   line-height: 2;
 }
 
@@ -1091,13 +1091,13 @@ h2 {
   padding: 16px 22px;
   background: var(--champagne-light);
   color: var(--burgundy-dark);
-  font-size: 11px;
+  font-size: 21px;
   font-weight: 700;
   transition: background 0.3s, transform 0.3s;
 }
 
 .contact-button span {
-  font-size: 16px;
+  font-size: 26px;
 }
 
 .contact-button:hover {
@@ -1117,7 +1117,7 @@ h2 {
 
 .contact-details a {
   color: #e2d4d2;
-  font-size: 10px;
+  font-size: 20px;
   transition: color 0.3s;
 }
 
@@ -1138,7 +1138,7 @@ h2 {
 
 .footer-brand {
   color: var(--burgundy);
-  font-size: 10px;
+  font-size: 20px;
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -1147,7 +1147,7 @@ h2 {
 .copyright,
 .back-to-top {
   color: var(--muted);
-  font-size: 9px;
+  font-size: 19px;
 }
 
 .back-to-top {
@@ -1254,11 +1254,11 @@ h2 {
   }
 
   .brand-name {
-    font-size: 10px;
+    font-size: 20px;
   }
 
   .brand-name small {
-    font-size: 7px;
+    font-size: 17px;
   }
 
   .navigation {
@@ -1271,12 +1271,12 @@ h2 {
   }
 
   .navigation a {
-    font-size: 10px;
+    font-size: 20px;
   }
 
   .header-contact {
     padding: 9px 10px;
-    font-size: 10px;
+    font-size: 20px;
   }
 
   .hero {
@@ -1297,7 +1297,7 @@ h2 {
   }
 
   .hero-description {
-    font-size: 13px;
+    font-size: 23px;
   }
 
   .hero-details {
@@ -1306,7 +1306,7 @@ h2 {
   }
 
   .detail-label {
-    font-size: 8px;
+    font-size: 18px;
   }
 
   .hero-visual {
@@ -1325,17 +1325,17 @@ h2 {
   }
 
   .floating-card strong {
-    font-size: 9px;
+    font-size: 19px;
   }
 
   .vertical-label {
     right: -12px;
-    font-size: 7px;
+    font-size: 17px;
   }
 
   .hero-bottom-label {
     bottom: 25px;
-    font-size: 7px;
+    font-size: 17px;
     gap: 12px;
   }
 
@@ -1355,7 +1355,7 @@ h2 {
   }
 
   h2 {
-    font-size: 43px;
+    font-size: 53px;
   }
 
   .about-grid h2 {
@@ -1444,7 +1444,7 @@ h2 {
   }
 
   .timeline-item h3 {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   .languages-section {
@@ -1458,7 +1458,7 @@ h2 {
   }
 
   .contact-inner h2 {
-    font-size: clamp(43px, 10vw, 62px);
+    font-size: clamp(53px, 10vw, 72px);
   }
 
   .contact-details {
